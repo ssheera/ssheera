@@ -7,3 +7,5 @@
 
 ## Contact
 [![Discord](https://github.com/ssheera/ssheera/blob/main/discord.png)](https://discord.com/users/208646405810683906)
+{: .gitlab-orange}
+
