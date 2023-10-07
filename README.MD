@@ -6,6 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssheera&count_private=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
-[![Discord](https://github.com/ssheera/ssheera/blob/main/discord.png)](https://discord.com/users/208646405810683906)
-{: .gitlab-orange}
-
+![](https://dcbadge.vercel.app/api/shield/208646405810683906?style=flat)
