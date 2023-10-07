@@ -7,3 +7,5 @@
 
 ## Contact
 Discord [dramatically](https://discord.com/users/208646405810683906)
+
+[![Discord](https://github.com/ssheera/ssheera/blob/main/discord.svg)](https://discord.com/users/208646405810683906)
