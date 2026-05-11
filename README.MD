@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/tagline.svg" alt="Software Engineer · Open to opportunities" height="40"/>
+  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/tagline.svg" alt="Full-stack Engineer · Java · TypeScript · Python · Open to opportunities" height="90"/>
+</p>
+
+<p align="center">
+  <em>Full-stack with depth — JVM internals to TypeScript web apps.</em>
 </p>
 
 <p align="center">
@@ -16,7 +20,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[Some-Java-Obfuscator](https://github.com/ssheera/Some-Java-Obfuscator)**
 
@@ -25,11 +29,22 @@
 <a href="https://github.com/ssheera/Some-Java-Obfuscator">
   <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/Some-Java-Obfuscator?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
   <img alt="Language" src="https://img.shields.io/github/languages/top/ssheera/Some-Java-Obfuscator?style=flat-square&color=EA4335&labelColor=24292E"/>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ssheera/Some-Java-Obfuscator?style=flat-square&color=EA4335&labelColor=24292E"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**[abitofyou.ai](https://github.com/ssheera/abitofyou.ai)**
+
+*Image-pair compatibility scoring · OpenAI Vision + S3*
+
+<a href="https://github.com/ssheera/abitofyou.ai">
+  <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/abitofyou.ai?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
+  <img alt="Language" src="https://img.shields.io/github/languages/top/ssheera/abitofyou.ai?style=flat-square&color=EA4335&labelColor=24292E"/>
+</a>
+
+</td>
+<td width="33%" valign="top">
 
 **[asm-fork](https://github.com/ssheera/asm-fork)**
 
@@ -38,7 +53,6 @@
 <a href="https://github.com/ssheera/asm-fork">
   <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/asm-fork?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
   <img alt="Language" src="https://img.shields.io/github/languages/top/ssheera/asm-fork?style=flat-square&color=EA4335&labelColor=24292E"/>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ssheera/asm-fork?style=flat-square&color=EA4335&labelColor=24292E"/>
 </a>
 
 </td>

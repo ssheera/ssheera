@@ -1,17 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="60" viewBox="0 0 640 60">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="110" viewBox="0 0 640 110">
   <style>
-    .tag {
+    .role {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-weight: 300;
-      font-size: 18px;
-      letter-spacing: 5px;
+      font-weight: 600;
+      font-size: 24px;
+      letter-spacing: 9px;
       fill: #C9D1D9;
     }
-    .dot {
-      fill: #EA4335;
-      font-weight: 700;
-      font-size: 24px;
+    .stack {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 300;
+      font-size: 13px;
+      letter-spacing: 6px;
+      fill: #8B949E;
     }
+    .status {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      font-size: 10px;
+      letter-spacing: 5px;
+      fill: #8B949E;
+    }
+    .dot-red { fill: #EA4335; font-weight: 700; }
+    .dot-green { fill: #3FB950; }
   </style>
-  <text x="320" y="38" text-anchor="middle" class="tag">SOFTWARE ENGINEER<tspan class="dot" dx="10" dy="2">·</tspan><tspan dx="10" dy="-2">OPEN TO OPPORTUNITIES</tspan></text>
+  <text x="320" y="36" text-anchor="middle" class="role">FULL-STACK ENGINEER</text>
+  <text x="320" y="66" text-anchor="middle" class="stack">JAVA<tspan class="dot-red" dx="8">·</tspan><tspan dx="8">TYPESCRIPT</tspan><tspan class="dot-red" dx="8">·</tspan><tspan dx="8">PYTHON</tspan></text>
+  <text x="320" y="94" text-anchor="middle" class="status"><tspan class="dot-green" font-size="14">●</tspan><tspan dx="8">OPEN TO OPPORTUNITIES</tspan></text>
 </svg>
