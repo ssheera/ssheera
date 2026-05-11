@@ -22,10 +22,20 @@
       fill: #8B949E;
     }
     .dot-red { fill: #EA4335; font-weight: 700; }
-    .dot-green { fill: #3FB950; }
   </style>
   <text x="320" y="36" text-anchor="middle" class="role">FULL-STACK ENGINEER</text>
   <line x1="245" y1="48" x2="395" y2="48" stroke="#30363D" stroke-width="1"/>
   <text x="320" y="74" text-anchor="middle" class="stack">JAVA<tspan class="dot-red" dx="8">·</tspan><tspan dx="8">TYPESCRIPT</tspan><tspan class="dot-red" dx="8">·</tspan><tspan dx="8">PYTHON</tspan></text>
-  <text x="320" y="102" text-anchor="middle" class="status">LONDON<tspan dx="14" class="dot-green" font-size="14">●<animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></tspan><tspan dx="14">OPEN TO OPPORTUNITIES</tspan></text>
+
+  <g transform="translate(0, 0)">
+    <text x="222" y="106" text-anchor="end" class="status">LONDON</text>
+    <circle cx="240" cy="102" r="3.5" fill="#3FB950">
+      <animate attributeName="opacity" values="1;0.45;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="102" r="3.5" fill="none" stroke="#3FB950" stroke-width="1">
+      <animate attributeName="r" values="3.5;14;3.5" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="258" y="106" text-anchor="start" class="status">OPEN TO OPPORTUNITIES</text>
+  </g>
 </svg>
