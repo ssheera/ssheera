@@ -1,34 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/ssheera">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sunny+%F0%9F%91%8B;Full-Stack+Engineer+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;Shipping+ideas+from+0+%E2%86%92+1;Always+building.+Always+learning." alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sunny+%F0%9F%91%8B;Full-Stack+Engineer+%E2%80%A2+TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;Shipping+ideas+from+0+%E2%86%92+1;Always+building.+Always+learning." alt="Typing intro" />
 
 <br />
 
 <p>
-  <a href="https://ssheera.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ssheera.dev-7C3AED?style=for-the-badge&logo=astro&logoColor=white" /></a>
   <a href="https://github.com/ssheera"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ssheera-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ssheera&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 </div>
-
----
-
-### About Me
-
-```ts
-const sunny = {
-  role:       "Full-Stack Software Engineer",
-  focus:      ["Web Apps", "Developer Tooling", "AI Products"],
-  stack:      ["TypeScript", "Next.js", "Java", "Python", "Astro"],
-  building:   ["coverletter.ai", "examify", "ssheera.dev"],
-  philosophy: "Ship small. Ship often. Ship things people use.",
-};
-```
-
-I design and build production web apps end-to-end — from clean Next.js / Astro frontends down to typed APIs, database schemas, and the occasional JVM bytecode rabbit hole. I love taking a vague idea and turning it into something polished and live by the end of the weekend.
 
 ---
 
@@ -68,50 +49,6 @@ I design and build production web apps end-to-end — from clean Next.js / Astro
 
 ---
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>coverletter.ai</h3>
-      <p>AI that turns your resume + a job description into a tailored cover letter in seconds. Built with Next.js, TypeScript, and LLM tooling.</p>
-      <p>
-        <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img alt="AI" src="https://img.shields.io/badge/-LLM-7C3AED?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>examify</h3>
-      <p>A study companion that turns notes into practice questions and exams. TypeScript end-to-end.</p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img alt="Web" src="https://img.shields.io/badge/-Web%20App-22C55E?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ssheera.dev</h3>
-      <p>My personal site — fast, static, animated. Built on Astro with attention to motion and typography.</p>
-      <p>
-        <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>asm-fork</h3>
-      <p>A fork of the ASM bytecode framework — because sometimes the only way forward is to crack open the JVM.</p>
-      <p>
-        <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img alt="Open Source" src="https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=github&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### GitHub Activity
 
 <div align="center">
@@ -130,21 +67,6 @@ I design and build production web apps end-to-end — from clean Next.js / Astro
 <a href="https://github.com/ssheera">
   <img src="https://github-profile-trophy.vercel.app/?username=ssheera&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </a>
-
-</div>
-
----
-
-### Let's Connect
-
-<div align="center">
-
-<a href="https://ssheera.dev"><img alt="Website" src="https://img.shields.io/badge/Website-ssheera.dev-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/ssheera"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br /><br />
-
-<sub>⚡ <em>"The best way to predict the future is to build it."</em></sub>
 
 </div>
 
