@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <a href="mailto:YOUR-EMAIL-HERE"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tally.so/r/YOUR-FORM-ID"><img alt="Get in touch" src="https://img.shields.io/badge/Get%20in%20touch-6366F1?style=for-the-badge&logo=tally&logoColor=white"/></a>
   <a href="https://ssheera.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🔧 &nbsp;Engineer building production web apps end-to-end — TypeScript, Java, Python
 - 🌱 &nbsp;Strongest at the seam between product and infrastructure
 - ⭐ &nbsp;Author of [Some-Java-Obfuscator](https://github.com/ssheera/Some-Java-Obfuscator) — JVM bytecode transformer testbed (45 stars)
-- 📫 &nbsp;Best reached via [email](mailto:YOUR-EMAIL-HERE)
+- 📫 &nbsp;Reach me via [anonymous contact form](https://tally.so/r/YOUR-FORM-ID)
 
 ### Tech stack
 
