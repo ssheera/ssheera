@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <sub><em>Currently shipping client web work and exploring senior engineering roles.</em></sub>
+  <sub><em>Currently shipping client web work. Open to new opportunities.</em></sub>
 </p>
