@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Software Engineer · Open to opportunities</em>
+  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/tagline.svg" alt="Software Engineer · Open to opportunities" height="40"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
   <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/divider.svg" width="600" alt=""/>
 </p>
 
-<h3 align="center">Selected work</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/section-selected-work.svg" alt="Selected work" height="28"/>
+</p>
 
 <table>
 <tr>
@@ -18,7 +20,7 @@
 
 **[Some-Java-Obfuscator](https://github.com/ssheera/Some-Java-Obfuscator)**
 
-JVM bytecode transformer testbed
+*JVM bytecode transformer testbed*
 
 <a href="https://github.com/ssheera/Some-Java-Obfuscator">
   <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/Some-Java-Obfuscator?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
@@ -31,7 +33,7 @@ JVM bytecode transformer testbed
 
 **[asm-fork](https://github.com/ssheera/asm-fork)**
 
-Patched OW2 ASM with extended ClassReader support
+*Patched OW2 ASM with extended ClassReader support*
 
 <a href="https://github.com/ssheera/asm-fork">
   <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/asm-fork?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
