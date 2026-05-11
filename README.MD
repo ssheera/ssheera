@@ -1,9 +1,3 @@
-<h1 align="left">Hi, I'm Sunny 👋</h1>
-
-<p>
-  <strong>Software Engineer</strong> · Full-stack — TypeScript · Java · Python
-</p>
-
 <p>
   <a href="mailto:Sandeep.Singh.sheera@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Sandeep.Singh.sheera%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
