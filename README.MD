@@ -39,8 +39,8 @@
 *Image-pair compatibility scoring · OpenAI Vision + S3*
 
 <a href="https://github.com/ssheera/abitofyou.ai">
-  <img alt="Stars" src="https://img.shields.io/github/stars/ssheera/abitofyou.ai?style=flat-square&color=EA4335&labelColor=24292E&logo=github"/>
   <img alt="Language" src="https://img.shields.io/github/languages/top/ssheera/abitofyou.ai?style=flat-square&color=EA4335&labelColor=24292E"/>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/ssheera/abitofyou.ai?style=flat-square&color=EA4335&labelColor=24292E"/>
 </a>
 
 </td>
@@ -59,6 +59,10 @@
 </tr>
 </table>
 
-<p align="right">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ssheera&style=flat-square&color=EA4335&label=profile+views"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/divider.svg" width="600" alt=""/>
+</p>
+
+<p align="center">
+  <sub><em>Currently shipping client web work and exploring senior engineering roles.</em></sub>
 </p>
