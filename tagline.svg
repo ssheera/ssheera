@@ -26,5 +26,5 @@
   </style>
   <text x="320" y="36" text-anchor="middle" class="role">FULL-STACK ENGINEER</text>
   <text x="320" y="66" text-anchor="middle" class="stack">JAVA<tspan class="dot-red" dx="8">·</tspan><tspan dx="8">TYPESCRIPT</tspan><tspan class="dot-red" dx="8">·</tspan><tspan dx="8">PYTHON</tspan></text>
-  <text x="320" y="94" text-anchor="middle" class="status"><tspan class="dot-green" font-size="14">●</tspan><tspan dx="8">OPEN TO OPPORTUNITIES</tspan></text>
+  <text x="320" y="94" text-anchor="middle" class="status">LONDON<tspan class="dot-green" dx="14" font-size="14">●</tspan><tspan dx="14">OPEN TO OPPORTUNITIES</tspan></text>
 </svg>

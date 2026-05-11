@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/tagline.svg" alt="Full-stack Engineer · Java · TypeScript · Python · Open to opportunities" height="90"/>
-</p>
-
-<p align="center">
-  <em>Full-stack with depth — JVM internals to TypeScript web apps.</em>
+  <img src="https://raw.githubusercontent.com/ssheera/ssheera/main/tagline.svg" alt="Full-stack Engineer · Java · TypeScript · Python · London · Open to opportunities" height="90"/>
 </p>
 
 <p align="center">
