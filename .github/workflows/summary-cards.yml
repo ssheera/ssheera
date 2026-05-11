@@ -1,0 +1,23 @@
+name: GitHub profile summary cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate summary cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ssheera
+          BACKGROUND_COLOR: "#0D1117"
+          BUILD_NO_COMMIT: false
+          BRANCH_NAME: "main"
