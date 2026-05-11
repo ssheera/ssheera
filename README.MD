@@ -60,5 +60,9 @@
 </p>
 
 <p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ssheera/ssheera/output/snake.svg"/>
+</p>
+
+<p align="center">
   <sub><em>Currently shipping client web work. Open to new opportunities.</em></sub>
 </p>
